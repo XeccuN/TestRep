@@ -16,5 +16,9 @@ namespace TestApp
         {
             InitializeComponent();
         }
+        public void gachiTest()
+        {
+            MessageBox.Show("new commit");
+        }
     }
 }
