@@ -19,6 +19,7 @@ namespace TestApp
         public void gachiTest()
         {
             MessageBox.Show("new commit");
+            MessageBox.Show("о_О");
         }
     }
 }
